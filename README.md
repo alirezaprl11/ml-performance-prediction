@@ -12,7 +12,7 @@ scikit-learn             1.5.1
 
 
 ## Look through the following Notebooks to run the prediction model
-Small model to predict compute time from parameters of dense/convolutional layer [Updated](https://github.com/alirezaprl11/ml-performance-prediction/blob/master/prediction_model/notebooks/model_compTime_V2.ipynb)
+[Notebook 1](https://github.com/alirezaprl11/ml-performance-prediction/blob/master/prediction_model/notebooks/model_compTime_V2.ipynb): Small model to predict compute time from parameters of dense/convolutional layer 
 ## performance-prediction
 Code related to the paper **Predicting the Computational Cost of Deep Learning Models**. This code allows to train a machine learning model that can predict the execution time for commonly used layers within deep neural networks - and, by combining these, for the full network.
 
