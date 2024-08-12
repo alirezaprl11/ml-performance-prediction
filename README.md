@@ -4,7 +4,7 @@ pandas                   2.2.2
 
 numpy                    1.26.4
 
-tensorflow[and-cuda]
+tensorflow               2.17.0 (Use pip install tensorflow[and-cuda] for TF GPU-Enabled)
 
 matplotlib               3.9.1
 
