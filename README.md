@@ -4,7 +4,7 @@ pandas                   2.2.2
 
 numpy                    1.26.4
 
-tensorflow               2.17.0
+tensorflow[and-cuda]
 
 matplotlib               3.9.1
 
